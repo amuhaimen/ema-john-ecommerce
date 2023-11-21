@@ -1,0 +1,5 @@
+.shop-container {
+  color: black;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
